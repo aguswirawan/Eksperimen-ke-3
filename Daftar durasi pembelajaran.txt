@@ -1,0 +1,305 @@
+processing:  Sub01.mat ......
+4 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (2170, 64)
+labels_valence: (2170,)
+labels_arousal: (2170,)
+labels_dominance: (2170,)
+processing:  Sub02.mat ......
+3 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1900, 64)
+labels_valence: (1900,)
+labels_arousal: (1900,)
+labels_dominance: (1900,)
+processing:  Sub03.mat ......
+4 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1660, 64)
+labels_valence: (1660,)
+labels_arousal: (1660,)
+labels_dominance: (1660,)
+processing:  Sub04.mat ......
+4 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1330, 64)
+labels_valence: (1330,)
+labels_arousal: (1330,)
+labels_dominance: (1330,)
+processing:  Sub05.mat ......
+3 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1530, 64)
+labels_valence: (1530,)
+labels_arousal: (1530,)
+labels_dominance: (1530,)
+processing:  Sub06.mat ......
+4 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1290, 64)
+labels_valence: (1290,)
+labels_arousal: (1290,)
+labels_dominance: (1290,)
+processing:  Sub07.mat ......
+3 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1650, 64)
+labels_valence: (1650,)
+labels_arousal: (1650,)
+labels_dominance: (1650,)
+processing:  Sub08.mat ......
+3 kelas 
+base_DE shape: (2, 64)
+trial_DE shape: (1830, 64)
+labels_valence: (1830,)
+labels_arousal: (1830,)
+labels_dominance: (1830,)
+processing:  Sub09.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2260, 64)
+labels_valence: (2260,)
+labels_arousal: (2260,)
+labels_dominance: (2260,)
+processing:  Sub10.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2000, 64)
+labels_valence: (2000,)
+labels_arousal: (2000,)
+labels_dominance: (2000,)
+processing:  Sub11.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2460, 64)
+labels_valence: (2460,)
+labels_arousal: (2460,)
+labels_dominance: (2460,)
+processing:  Sub12.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1680, 64)
+labels_valence: (1680,)
+labels_arousal: (1680,)
+labels_dominance: (1680,)
+processing:  Sub13.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1370, 64)
+labels_valence: (1370,)
+labels_arousal: (1370,)
+labels_dominance: (1370,)
+processing:  Sub14.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (990, 64)
+labels_valence: (990,)
+labels_arousal: (990,)
+labels_dominance: (990,)
+processing:  Sub15.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1390, 64)
+labels_valence: (1390,)
+labels_arousal: (1390,)
+labels_dominance: (1390,)
+processing:  Sub16.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2150, 64)
+labels_valence: (2150,)
+labels_arousal: (2150,)
+labels_dominance: (2150,)
+processing:  Sub17.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1300, 64)
+labels_valence: (1300,)
+labels_arousal: (1300,)
+labels_dominance: (1300,)
+processing:  Sub18.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2270, 64)
+labels_valence: (2270,)
+labels_arousal: (2270,)
+labels_dominance: (2270,)
+processing:  Sub19.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (3300, 64)
+labels_valence: (3300,)
+labels_arousal: (3300,)
+labels_dominance: (3300,)
+processing:  Sub20.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1220, 64)
+labels_valence: (1220,)
+labels_arousal: (1220,)
+labels_dominance: (1220,)
+processing:  Sub21.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (1060, 64)
+labels_valence: (1060,)
+labels_arousal: (1060,)
+labels_dominance: (1060,)
+processing:  Sub22.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2610, 64)
+labels_valence: (2610,)
+labels_arousal: (2610,)
+labels_dominance: (2610,)
+processing:  Sub23.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (2110, 64)
+labels_valence: (2110,)
+labels_arousal: (2110,)
+labels_dominance: (2110,)
+processing:  Sub24.mat ......
+base_DE shape: (2, 64)
+trial_DE shape: (860, 64)
+labels_valence: (860,)
+labels_arousal: (860,)
+labels_dominance: (860,)
+
+==========================
+
+processing:  DE_Sub01.mat ......
+final data shape: (2170, 4, 9, 9)
+final shape: (2170, 4, 9, 9)
+processing:  DE_Sub02.mat ......
+final data shape: (1900, 4, 9, 9)
+final shape: (1900, 4, 9, 9)
+processing:  DE_Sub03.mat ......
+final data shape: (1660, 4, 9, 9)
+final shape: (1660, 4, 9, 9)
+processing:  DE_Sub04.mat ......
+final data shape: (1330, 4, 9, 9)
+final shape: (1330, 4, 9, 9)
+processing:  DE_Sub05.mat ......
+final data shape: (1530, 4, 9, 9)
+final shape: (1530, 4, 9, 9)
+processing:  DE_Sub06.mat ......
+final data shape: (1290, 4, 9, 9)
+final shape: (1290, 4, 9, 9)
+processing:  DE_Sub07.mat ......
+final data shape: (1650, 4, 9, 9)
+final shape: (1650, 4, 9, 9)
+processing:  DE_Sub08.mat ......
+final data shape: (1830, 4, 9, 9)
+final shape: (1830, 4, 9, 9)
+processing:  DE_Sub09.mat ......
+final data shape: (2260, 4, 9, 9)
+final shape: (2260, 4, 9, 9)
+processing:  DE_Sub10.mat ......
+final data shape: (2000, 4, 9, 9)
+final shape: (2000, 4, 9, 9)
+processing:  DE_Sub11.mat ......
+final data shape: (2460, 4, 9, 9)
+final shape: (2460, 4, 9, 9)
+processing:  DE_Sub12.mat ......
+final data shape: (1680, 4, 9, 9)
+final shape: (1680, 4, 9, 9)
+processing:  DE_Sub13.mat ......
+final data shape: (1370, 4, 9, 9)
+final shape: (1370, 4, 9, 9)
+processing:  DE_Sub14.mat ......
+final data shape: (990, 4, 9, 9)
+final shape: (990, 4, 9, 9)
+processing:  DE_Sub15.mat ......
+final data shape: (1390, 4, 9, 9)
+final shape: (1390, 4, 9, 9)
+processing:  DE_Sub16.mat ......
+final data shape: (2150, 4, 9, 9)
+final shape: (2150, 4, 9, 9)
+processing:  DE_Sub17.mat ......
+final data shape: (1300, 4, 9, 9)
+final shape: (1300, 4, 9, 9)
+processing:  DE_Sub18.mat ......
+final data shape: (2270, 4, 9, 9)
+final shape: (2270, 4, 9, 9)
+processing:  DE_Sub19.mat ......
+final data shape: (3300, 4, 9, 9)
+final shape: (3300, 4, 9, 9)
+processing:  DE_Sub20.mat ......
+final data shape: (1220, 4, 9, 9)
+final shape: (1220, 4, 9, 9)
+processing:  DE_Sub21.mat ......
+final data shape: (1060, 4, 9, 9)
+final shape: (1060, 4, 9, 9)
+processing:  DE_Sub22.mat ......
+final data shape: (2610, 4, 9, 9)
+final shape: (2610, 4, 9, 9)
+processing:  DE_Sub23.mat ......
+final data shape: (2110, 4, 9, 9)
+final shape: (2110, 4, 9, 9)
+processing:  DE_Sub24.mat ......
+final data shape: (860, 4, 9, 9)
+final shape: (860, 4, 9, 9)
+
+=============================
+
+processing:  Abraham.mat ......
+data shape: (2178, 4, 9, 9)
+label shape: (1, 2174)
+processing:  Sub01.mat ......
+data shape: (2170, 4, 9, 9)
+label shape: (1, 2170)
+processing:  Sub02.mat ......
+data shape: (1900, 4, 9, 9)
+label shape: (1, 1900)
+processing:  Sub03.mat ......
+data shape: (1660, 4, 9, 9)
+label shape: (1, 1660)
+processing:  Sub04.mat ......
+data shape: (1330, 4, 9, 9)
+label shape: (1, 1330)
+processing:  Sub05.mat ......
+data shape: (1530, 4, 9, 9)
+label shape: (1, 1530)
+processing:  Sub06.mat ......
+data shape: (1290, 4, 9, 9)
+label shape: (1, 1290)
+processing:  Sub07.mat ......
+data shape: (1650, 4, 9, 9)
+label shape: (1, 1650)
+processing:  Sub08.mat ......
+data shape: (1830, 4, 9, 9)
+label shape: (1, 1830)
+processing:  Sub09.mat ......
+data shape: (2260, 4, 9, 9)
+label shape: (1, 2260)
+processing:  Sub10.mat ......
+data shape: (2000, 4, 9, 9)
+label shape: (1, 2000)
+processing:  Sub11.mat ......
+data shape: (2460, 4, 9, 9)
+label shape: (1, 2460)
+processing:  Sub12.mat ......
+data shape: (1680, 4, 9, 9)
+label shape: (1, 1680)
+processing:  Sub13.mat ......
+data shape: (1370, 4, 9, 9)
+label shape: (1, 1370)
+processing:  Sub14.mat ......
+data shape: (990, 4, 9, 9)
+label shape: (1, 990)
+processing:  Sub15.mat ......
+data shape: (1390, 4, 9, 9)
+label shape: (1, 1390)
+processing:  Sub16.mat ......
+data shape: (2150, 4, 9, 9)
+label shape: (1, 2150)
+processing:  Sub17.mat ......
+data shape: (1300, 4, 9, 9)
+label shape: (1, 1300)
+processing:  Sub18.mat ......
+data shape: (2270, 4, 9, 9)
+label shape: (1, 2270)
+processing:  Sub19.mat ......
+data shape: (3300, 4, 9, 9)
+label shape: (1, 3300)
+processing:  Sub20.mat ......
+data shape: (1220, 4, 9, 9)
+label shape: (1, 1220)
+processing:  Sub21.mat ......
+data shape: (1060, 4, 9, 9)
+label shape: (1, 1060)
+processing:  Sub22.mat ......
+data shape: (2610, 4, 9, 9)
+label shape: (1, 2610)
+processing:  Sub23.mat ......
+data shape: (2110, 4, 9, 9)
+label shape: (1, 2110)
+processing:  Sub24.mat ......
+data shape: (860, 4, 9, 9)
+label shape: (1, 860)
